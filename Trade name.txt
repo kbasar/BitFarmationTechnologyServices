@@ -19,3 +19,12 @@ Farming bits into agriculture and beyong. In agriculture we usually know that se
 Bitfarm is to shape the technology to match the need of modern tools and technique to leverage agriculture produce and reduce the cost and at the same time doing it smartly.
 
 Bitfarm is a company expertise in planing bits and bytes and make non-digital area appreciate the digital revolusion.
+
+
+Underline:
+With hardwork comes ease.
+
+
+
+##---------------------------- PLC Training Materials: Siemense PLC------------------------##
+Training Manual for Integrated Automation Solutions Totally Integrated Automation (TIA)
