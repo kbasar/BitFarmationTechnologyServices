@@ -7,4 +7,4 @@ Bitfarmation Technology Services - Training &amp; Doing
 ##A - Basics of STEP 7 Programming##
 
 #A1 - Totally Integrated Automation (TIA)#
--Training curriculum pdf[LINK](pdf) | WORD [LINK] (Word)
+-Training curriculum pdf[LINK](pdf) | WORD[LINK] (Word)
