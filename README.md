@@ -9,3 +9,5 @@ Bitfarmation Technology Services - Training &amp; Doing
 -Training curriculum pdf[LINK](pdf) | WORD[LINK] (Word)
 
 #link1[link]( https://instrumentationtools.com/plc-memory-mapping-io-addressing)
+#link2[link]( https://instrumentationtools.com/download-plc-training-software/)
+
