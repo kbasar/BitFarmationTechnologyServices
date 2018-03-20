@@ -1,4 +1,4 @@
-# BitFarmationTechnologyServices 
+# BitFarmationTechnologyServices ![image](tm.jpg)
 Bitfarmation Technology Services - Training &amp; Doing
 
 
