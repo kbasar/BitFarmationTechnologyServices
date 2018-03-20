@@ -7,3 +7,5 @@ Bitfarmation Technology Services - Training &amp; Doing
 
 #A1 - Totally Integrated Automation (TIA)#
 -Training curriculum pdf[LINK](pdf) | WORD[LINK] (Word)
+
+#link1[link]( https://instrumentationtools.com/plc-memory-mapping-io-addressing)
